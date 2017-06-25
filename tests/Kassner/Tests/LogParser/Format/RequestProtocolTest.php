@@ -8,7 +8,7 @@ use Kassner\LogParser\LogParser;
  * @format %H
  * @description The request protocol
  */
-class RequestProtocolMethodTest extends \PHPUnit_Framework_TestCase
+class RequestProtocolTest extends \PHPUnit_Framework_TestCase
 {
     protected $parser = null;
 
